@@ -101,12 +101,6 @@ Adjust this to match the actual repo contents.
 3. Select 2 layers, 1.6 mm thickness, 1 oz outer copper.
 4. For assembly, export the BOM and pick-and-place files and match parts to the JLC parts library.
 
-## Known issues / to verify
-
-- R7 (USB D+ pull-up) is 10 K and goes to +5 V. The USB full-speed spec calls for a 1.5 K pull-up to 3.3 V on D+. Change this before ordering if USB device enumeration is needed.
-- Y2 (32.768 kHz) shows no load capacitors on the schematic. Confirm whether the part is an integrated oscillator or a bare crystal that needs load caps.
-- VDDA has no dedicated filtering cap. Optional, but a 1 uF + 0.1 uF at VDDA improves ADC performance.
-
 ## License
 
 Add a license here (for example MIT for the design files).
