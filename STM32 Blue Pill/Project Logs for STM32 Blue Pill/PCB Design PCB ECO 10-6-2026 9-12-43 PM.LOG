@@ -1,0 +1,10 @@
+Added Component: Designator=R7(RES_0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing Part Number"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "311-10.0KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "Digikey"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=R7-1
+Added Pin To Net: NetName=D_P Pin=R7-2
+Added Member To Class: ClassName=Schematic Member=Component R7 10K
+Added Class: Name=diff_90

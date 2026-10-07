@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=J4 Old Footprint=CON4_100_40D72_TH_ST_MALE New Footprint=HARWIN_M20-9960445
+Change Component Comment : Designator=J4 Old Comment=4X1 Bergstrip New Comment=M20-9960445
+Change component parameters: Designator = "J4" ("J4"); Footprint = "CON4_100_40D72_TH_ST_MALE"; UniqueID = "\ITCLOSOT" ("\ITCLOSOT")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/M20-9960445/Harwin+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Harwin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "M20-9960445"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/M20-9960445/Harwin+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

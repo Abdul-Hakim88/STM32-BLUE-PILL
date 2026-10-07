@@ -1,0 +1,11 @@
+Added Component: Designator=Y2(XTAL_MC-405 32.7680K-G3)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Epson"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturing Part Number"; Value = "MC-405 32.7680K-G3: ROHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "732-MC405327680KG3RS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "Mouser"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=XTALC Pin=Y2-1
+Added Pin To Net: NetName=GND Pin=Y2-2
+Added Pin To Net: NetName=GND Pin=Y2-3
+Added Pin To Net: NetName=XTALD Pin=Y2-4
+Added Member To Class: ClassName=Schematic2 Member=Component Y2 32.768KHz

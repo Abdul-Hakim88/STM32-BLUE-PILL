@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=Y1 Old Footprint=XTAL_314_240X47_SMD New Footprint=XTAL_HC49P488W43L1085T450H368
+Change Component Footprint: Designator=Y2 Old Footprint=XTAL_MC-405 32.7680K-G3 New Footprint=XTAL_32.768KHz-MC-405 32.7680K-G3
+Change Component Comment : Designator=Y1 Old Comment=8MHz New Comment=ATS08A-E
+Change Component Comment : Designator=Y2 Old Comment=32.768KHz New Comment=32.768 EPSON
+Change component parameters: Designator = "Y1" ("Y1"); Footprint = "XTAL_314_240X47_SMD"; UniqueID = "\KHHXCPZG" ("\KHHXCPZG")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ATS08A-E/CTS+Components/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "CTS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ATS08A-E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "HC-49/US CTS-Frequency Controls"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ATS08A-E/CTS+Components/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y2" ("Y2"); Footprint = "XTAL_MC-405 32.7680K-G3"; UniqueID = "\IFAZFSUY" ("\IFAZFSUY")
